@@ -1,0 +1,24 @@
+===================================================
+            Historia / Personajes
+===================================================
+1) El juego se llama "Treasure of the Dark Wizard".
+2) El mago escondio su tesoro en una mazmorra y la lleno de peligros y trampas para que nadie pase.
+3)El personaje quiere buscar el tesoro porque escucho los mitos y al final del juego se enfrenta al mago, que puede generar los enemigos que ya vio antes.
+
+
+===================================================
+                      Inicio
+===================================================
+1) Pantalla de inicio con boton "jugar"
+2) Debe tener un Lobby donde el jugador puede conseguir cosas basicas x ej: Armas, Skins, mejoras, hechizos, etc. que tenga la opcion "Comenzar partida" que sea fluido.
+
+
+
+==================================================
+                     Fondo:
+==================================================
+
+1) Fondo hechos con imagenes
+2) Que solo se vea la habitacion y un cacho de fondo negro
+3) Hacer los fondos con Paint.net 
+
